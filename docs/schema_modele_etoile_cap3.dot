@@ -1,0 +1,63 @@
+digraph etoile {
+  graph [layout=neato, splines=true, overlap=false, outputorder=edgesfirst, bgcolor="white", pad=0.4, nodesep=0.35, ranksep=0.9, fontname="Inter", fontsize=20,
+         label=<<B>Cas #3 · Modèle en étoile SQLite (DDL v5.5)</B><BR/><FONT POINT-SIZE="13" COLOR="#555555">au centre les faits (un événement = une ligne), autour les dimensions qui les décrivent, en périphérie les tables de référence</FONT>>,
+         labelloc=t];
+  node  [shape=plain, fontname="Inter", fontsize=12];
+  edge  [color="#8A8F98", arrowhead=none, penwidth=1.3];
+
+  // ---------- FAITS (centre) ----------
+  fr [pos="0,1.55!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#B4532A">
+    <TR><TD BGCOLOR="#B4532A"><FONT COLOR="white"><B>fait_raccordement</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#FBEDE6"><I>1 ligne = 1 raccordement · 181 488</I></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">rid (PK) · statut<BR/>date_commande · date_rdv<BR/>date_mise_en_service<BR/>reprise_malfacon (0/1)</TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT COLOR="#666666">fk_id_pm · fk_abonne · fk_mois<BR/>fk_territoire · fk_cause_echec</FONT></TD></TR></TABLE>>];
+  fs [pos="0,-1.55!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#B4532A">
+    <TR><TD BGCOLOR="#B4532A"><FONT COLOR="white"><B>fait_signalisation</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#FBEDE6"><I>1 ligne = 1 signalisation (panne) · 150 527</I></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">sid (PK) · date_depot<BR/>date_prise_en_charge · date_cloture<BR/>temps_retablissement (j)<BR/>malfacon (0/1) <FONT COLOR="#B4532A">*</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT COLOR="#666666">fk_id_pm · fk_abonne · fk_mois<BR/>fk_territoire · fk_code_cause</FONT></TD></TR></TABLE>>];
+
+  // ---------- DIMENSIONS ----------
+  node [label=""];
+  dterr [pos="-4.6,-1.9!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#2F6F8F">
+    <TR><TD BGCOLOR="#2F6F8F"><FONT COLOR="white"><B>dim_territoire</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">territoire (PK) : GLP · MTQ<BR/>libelle</TD></TR></TABLE>>];
+  dtemps [pos="-4.6,2.4!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#2F6F8F">
+    <TR><TD BGCOLOR="#2F6F8F"><FONT COLOR="white"><B>dim_temps</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#E7F0F5"><I>36 mois (2023-2025)</I></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">mois (PK) · trimestre · annee<BR/>saison_cyclonique (0/1)</TD></TR></TABLE>>];
+  dpm [pos="4.6,2.6!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#2F6F8F">
+    <TR><TD BGCOLOR="#2F6F8F"><FONT COLOR="white"><B>dim_pm</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#E7F0F5"><I>1 580 PM</I></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">id_pm (PK) · fk_territoire<BR/>nb_locaux_raccordables<BR/>part_aerien</TD></TR></TABLE>>];
+  dabo [pos="4.6,0!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#2F6F8F">
+    <TR><TD BGCOLOR="#2F6F8F"><FONT COLOR="white"><B>dim_abonne</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#E7F0F5"><I>235 000 abonnés</I></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">id_abonne (PK) · fk_id_pm</TD></TR></TABLE>>];
+  dcause [pos="4.6,-2.6!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#2F6F8F">
+    <TR><TD BGCOLOR="#2F6F8F"><FONT COLOR="white"><B>dim_cause</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#E7F0F5"><I>135 triplets QUOI × OÙ × MOMENT</I></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">code_cause (PK) · quoi · portee<BR/>fk_troncon · sensible_aerien<BR/>score (poids) · p_malfacon</TD></TR></TABLE>>];
+
+  // ---------- RÉFÉRENCES ----------
+  rparc [pos="-4.6,-4.6!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#5E7A3A">
+    <TR><TD BGCOLOR="#5E7A3A"><FONT COLOR="white"><B>ref_parc_annuel</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#EEF3E6"><I>réel (cas #1) : l'enveloppe</I></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">territoire + annee (PK)<BR/>locaux · abonnés (stock)<BR/>raccordements (flux) · nb_pm</TD></TR></TABLE>>];
+  rtron [pos="4.6,-5.0!", label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#5E7A3A">
+    <TR><TD BGCOLOR="#5E7A3A"><FONT COLOR="white"><B>ref_troncon_segment</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT">troncon (PK) → segment<BR/>D0 Collecte · D1 Transport<BR/>D2 Distribution · D3 Branchement</TD></TR></TABLE>>];
+
+  // ---------- disposition ----------
+      
+  rparc -> dterr;
+  dterr -> fr; dterr -> fs;
+  dtemps -> fr; dtemps -> fs;
+  fr -> dpm; fs -> dpm;
+  fr -> dabo; fs -> dabo;
+  fr -> dcause; fs -> dcause;
+  dabo -> dpm [style=dashed];
+  dcause -> rtron;
+
+  legende [pos="0,-5.6!", label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="2" CELLPADDING="2"><TR><TD><FONT COLOR="#B4532A" POINT-SIZE="16">■</FONT> faits (événements)      <FONT COLOR="#2F6F8F" POINT-SIZE="16">■</FONT> dimensions      <FONT COLOR="#5E7A3A" POINT-SIZE="16">■</FONT> référence</TD></TR><TR><TD><FONT POINT-SIZE="11" COLOR="#555555">* colonne ajoutée par le générateur (ALTER TABLE), absente du DDL v5.5 · trait pointillé : chaque abonné est rattaché à un PM</FONT></TD></TR></TABLE>>];
+}

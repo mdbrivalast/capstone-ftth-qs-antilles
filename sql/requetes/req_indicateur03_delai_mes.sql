@@ -1,4 +1,4 @@
--- Indicateur 2b : DÉLAI DE MISE EN SERVICE (MES) par territoire
+-- Indicateur 3 : DÉLAI DE MISE EN SERVICE (MES) par territoire
 -- Délai = date de mise en service - date de commande, en jours (julianday = n° de jour, la différence donne des jours)
 -- Périmètre : raccordements RÉUSSIS uniquement (seuls eux ont une date de mise en service)
 -- Résultat attendu (base v1) : GLP 93 000 réussis → 44,6 j · 77,9 % sous 60 j
