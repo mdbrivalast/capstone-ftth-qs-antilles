@@ -27,7 +27,7 @@ RALLONGE_CYCLONE = 1.5         # mois cyclonique : equipes saturees/acces coupes
 # ---------------------------------------------------------------------
 # 1. dim_cause enrichie
 # ---------------------------------------------------------------------
-dim = pd.read_csv("/tmp/p_malfacon_mapping.csv")
+dim = pd.read_csv("./Datasets/p_malfacon_mapping.csv")
 dim["troncon"] = [c[len(q)+1:-(len(p)+1)] for c,q,p in zip(dim.code_cause,dim.quoi,dim.portee)]
 dim["segment"] = dim.troncon.map(TRONCON_SEGMENT)
 dim["sensible_aerien"] = ((dim.quoi=="ENV")&(dim.troncon.isin(["PM","PBO","PTO"]))).astype(int)
@@ -37,7 +37,7 @@ aerien = panne[panne.sensible_aerien==1].copy()
 # ---------------------------------------------------------------------
 # 2. Mensualisation du stock
 # ---------------------------------------------------------------------
-parc = pd.read_csv("/root/.claude/uploads/834a167c-4bc0-5425-a7a6-db0ab07b9a2b/4b26ae72-parc_annuel_reel.csv")
+parc = pd.read_csv("./Datasets/parc_annuel_reel.csv")
 cal=[]
 for terr in ["GLP","MTQ"]:
     sfin=STOCK_FIN_2022[terr]
@@ -101,13 +101,12 @@ for lbl,ym in [("mois normal (2023-09)","2023-09"),("Tammy (2023-10)","2023-10")
     print(f"  {lbl:22s}: MTTR median {s.mttr_jours.median():.2f} j sur {len(s)} pannes D3")
 
 # histogramme des delais (buckets) pour le graphe
-import numpy as np
 buckets=pd.cut(fait.mttr_jours,[0,1,2,3,4,5,6,7,100],
                labels=["0-1","1-2","2-3","3-4","4-5","5-6","6-7","7+"])
 h=(buckets.value_counts(normalize=True).reindex(["0-1","1-2","2-3","3-4","4-5","5-6","6-7","7+"])*100).round(1)
 print("\n=== Distribution des MTTR (% des pannes) ===")
 print(h.to_string())
 
-fait.to_csv("fait_signalisation_v2.csv",index=False)
-print(f"\n[fichier] fait_signalisation_v2.csv ({len(fait):,} lignes, colonne mttr_jours ajoutee)")
+fait.to_csv("./Datasets/fait_signalisation_v2-tiza.csv",index=False)
+print(f"\n[fichier] fait_signalisation_v2-tiza.csv ({len(fait):,} lignes, colonne mttr_jours ajoutee)")
 print("HIST:", list(h.values))
