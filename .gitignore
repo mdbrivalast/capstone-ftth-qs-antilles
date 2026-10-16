@@ -1,0 +1,9 @@
+# Fichiers écartés du dépôt (brouillons, prototypes, données non publiables)
+_ecarte/
+# La base SQLite se régénère avec sql/ + scripts/generateur_faits_cap3.py (seed figé)
+*.db
+*.db.backup
+*.sqbpro
+# Fichiers temporaires Office et Python
+~$*
+__pycache__/

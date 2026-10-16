@@ -1,0 +1,413 @@
+"perimetre";"periode";"nature_indicateur";"type_malfacon";"oc";"taux"
+"Altitude";"T1 2024";"taux_de_RNC";"M01";"free";0,00435413642960813
+"Altitude";"T1 2024";"taux_de_RNC";"M01";"orange";0,00688073394495413
+"Altitude";"T1 2024";"taux_de_RNC";"M01";"sfr";0,00613496932515337
+"Altitude";"T1 2024";"taux_de_RNC";"M01";"byt";0,00785634118967452
+"Altitude";"T1 2024";"taux_de_RNC";"M02";"free";0,0435413642960813
+"Altitude";"T1 2024";"taux_de_RNC";"M02";"orange";0,00917431192660551
+"Altitude";"T1 2024";"taux_de_RNC";"M02";"sfr";0,0932515337423313
+"Altitude";"T1 2024";"taux_de_RNC";"M02";"byt";0,0549943883277217
+"Altitude";"T1 2024";"taux_de_RNC";"M03";"free";0,02322206095791
+"Altitude";"T1 2024";"taux_de_RNC";"M03";"orange";0,00688073394495413
+"Altitude";"T1 2024";"taux_de_RNC";"M03";"sfr";0,0049079754601227
+"Altitude";"T1 2024";"taux_de_RNC";"M03";"byt";0,0101010101010101
+"Altitude";"T1 2024";"taux_de_RNC";"M04";"free";0,0319303338171263
+"Altitude";"T1 2024";"taux_de_RNC";"M04";"orange";0,00802752293577982
+"Altitude";"T1 2024";"taux_de_RNC";"M04";"sfr";0,052760736196319
+"Altitude";"T1 2024";"taux_de_RNC";"M04";"byt";0,0269360269360269
+"Altitude";"T1 2024";"taux_de_RNC";"M05";"free";0,04644412191582
+"Altitude";"T1 2024";"taux_de_RNC";"M05";"orange";0,00229357798165138
+"Altitude";"T1 2024";"taux_de_RNC";"M05";"sfr";0
+"Altitude";"T1 2024";"taux_de_RNC";"M05";"byt";0
+"Altitude";"T1 2024";"taux_de_RNC";"M06";"free";0,0841799709724238
+"Altitude";"T1 2024";"taux_de_RNC";"M06";"orange";0,0607798165137615
+"Altitude";"T1 2024";"taux_de_RNC";"M06";"sfr";0,0993865030674847
+"Altitude";"T1 2024";"taux_de_RNC";"M06";"byt";0,0448933782267116
+"Altitude";"T1 2024";"taux_de_RNC";"M07";"free";0,0188679245283019
+"Altitude";"T1 2024";"taux_de_RNC";"M07";"orange";0,0137614678899083
+"Altitude";"T1 2024";"taux_de_RNC";"M07";"sfr";0,0331288343558282
+"Altitude";"T1 2024";"taux_de_RNC";"M07";"byt";0,00897867564534231
+"Altitude";"T2 2024";"taux_de_RNC";"M01";"free";0,00125786163522013
+"Altitude";"T2 2024";"taux_de_RNC";"M01";"orange";0,00111607142857143
+"Altitude";"T2 2024";"taux_de_RNC";"M01";"sfr";0,00985221674876847
+"Altitude";"T2 2024";"taux_de_RNC";"M01";"byt";0,00434782608695652
+"Altitude";"T2 2024";"taux_de_RNC";"M02";"free";0,0213836477987421
+"Altitude";"T2 2024";"taux_de_RNC";"M02";"orange";0,0122767857142857
+"Altitude";"T2 2024";"taux_de_RNC";"M02";"sfr";0,0923645320197044
+"Altitude";"T2 2024";"taux_de_RNC";"M02";"byt";0,066304347826087
+"Altitude";"T2 2024";"taux_de_RNC";"M03";"free";0,00754716981132075
+"Altitude";"T2 2024";"taux_de_RNC";"M03";"orange";0,00111607142857143
+"Altitude";"T2 2024";"taux_de_RNC";"M03";"sfr";0,00862068965517241
+"Altitude";"T2 2024";"taux_de_RNC";"M03";"byt";0,00434782608695652
+"Altitude";"T2 2024";"taux_de_RNC";"M04";"free";0,0163522012578616
+"Altitude";"T2 2024";"taux_de_RNC";"M04";"orange";0,00334821428571429
+"Altitude";"T2 2024";"taux_de_RNC";"M04";"sfr";0,0307881773399015
+"Altitude";"T2 2024";"taux_de_RNC";"M04";"byt";0,0260869565217391
+"Altitude";"T2 2024";"taux_de_RNC";"M05";"free";0,0238993710691824
+"Altitude";"T2 2024";"taux_de_RNC";"M05";"orange";0,00334821428571429
+"Altitude";"T2 2024";"taux_de_RNC";"M05";"sfr";0,00246305418719212
+"Altitude";"T2 2024";"taux_de_RNC";"M05";"byt";0,00108695652173913
+"Altitude";"T2 2024";"taux_de_RNC";"M06";"free";0,0729559748427673
+"Altitude";"T2 2024";"taux_de_RNC";"M06";"orange";0,0345982142857143
+"Altitude";"T2 2024";"taux_de_RNC";"M06";"sfr";0,0763546798029557
+"Altitude";"T2 2024";"taux_de_RNC";"M06";"byt";0,0380434782608696
+"Altitude";"T2 2024";"taux_de_RNC";"M07";"free";0,0125786163522013
+"Altitude";"T2 2024";"taux_de_RNC";"M07";"orange";0,00558035714285714
+"Altitude";"T2 2024";"taux_de_RNC";"M07";"sfr";0,0197044334975369
+"Altitude";"T2 2024";"taux_de_RNC";"M07";"byt";0,0152173913043478
+"Altitude";"T3 2024";"taux_de_RNC";"M01";"free";0,00129366106080207
+"Altitude";"T3 2024";"taux_de_RNC";"M01";"orange";0,0024330900243309
+"Altitude";"T3 2024";"taux_de_RNC";"M01";"sfr";0,00515463917525773
+"Altitude";"T3 2024";"taux_de_RNC";"M01";"byt";0,00340136054421769
+"Altitude";"T3 2024";"taux_de_RNC";"M02";"free";0,0517464424320828
+"Altitude";"T3 2024";"taux_de_RNC";"M02";"orange";0,00851581508515815
+"Altitude";"T3 2024";"taux_de_RNC";"M02";"sfr";0,0850515463917526
+"Altitude";"T3 2024";"taux_de_RNC";"M02";"byt";0,0975056689342404
+"Altitude";"T3 2024";"taux_de_RNC";"M03";"free";0,0155239327296248
+"Altitude";"T3 2024";"taux_de_RNC";"M03";"orange";0
+"Altitude";"T3 2024";"taux_de_RNC";"M03";"sfr";0,0038659793814433
+"Altitude";"T3 2024";"taux_de_RNC";"M03";"byt";0,0124716553287982
+"Altitude";"T3 2024";"taux_de_RNC";"M04";"free";0,0465717981888745
+"Altitude";"T3 2024";"taux_de_RNC";"M04";"orange";0,00364963503649635
+"Altitude";"T3 2024";"taux_de_RNC";"M04";"sfr";0,0347938144329897
+"Altitude";"T3 2024";"taux_de_RNC";"M04";"byt";0,0260770975056689
+"Altitude";"T3 2024";"taux_de_RNC";"M05";"free";0,00905562742561449
+"Altitude";"T3 2024";"taux_de_RNC";"M05";"orange";0,00121654501216545
+"Altitude";"T3 2024";"taux_de_RNC";"M05";"sfr";0,0038659793814433
+"Altitude";"T3 2024";"taux_de_RNC";"M05";"byt";0,00113378684807256
+"Altitude";"T3 2024";"taux_de_RNC";"M06";"free";0,0620957309184994
+"Altitude";"T3 2024";"taux_de_RNC";"M06";"orange";0,0364963503649635
+"Altitude";"T3 2024";"taux_de_RNC";"M06";"sfr";0,038659793814433
+"Altitude";"T3 2024";"taux_de_RNC";"M06";"byt";0,0317460317460317
+"Altitude";"T3 2024";"taux_de_RNC";"M07";"free";0,0142302716688228
+"Altitude";"T3 2024";"taux_de_RNC";"M07";"orange";0,0097323600973236
+"Altitude";"T3 2024";"taux_de_RNC";"M07";"sfr";0,0128865979381443
+"Altitude";"T3 2024";"taux_de_RNC";"M07";"byt";0,0090702947845805
+"Altitude";"T4 2024";"taux_de_RNC";"M01";"free";0,0121457489878543
+"Altitude";"T4 2024";"taux_de_RNC";"M01";"orange";0,00397350993377483
+"Altitude";"T4 2024";"taux_de_RNC";"M01";"sfr";0,00804289544235925
+"Altitude";"T4 2024";"taux_de_RNC";"M01";"byt";0,00129533678756477
+"Altitude";"T4 2024";"taux_de_RNC";"M02";"free";0,0431848852901484
+"Altitude";"T4 2024";"taux_de_RNC";"M02";"orange";0,00529801324503311
+"Altitude";"T4 2024";"taux_de_RNC";"M02";"sfr";0,10455764075067
+"Altitude";"T4 2024";"taux_de_RNC";"M02";"byt";0,0932642487046632
+"Altitude";"T4 2024";"taux_de_RNC";"M03";"free";0,00944669365721997
+"Altitude";"T4 2024";"taux_de_RNC";"M03";"orange";0,00529801324503311
+"Altitude";"T4 2024";"taux_de_RNC";"M03";"sfr";0,00804289544235925
+"Altitude";"T4 2024";"taux_de_RNC";"M03";"byt";0,00647668393782383
+"Altitude";"T4 2024";"taux_de_RNC";"M04";"free";0,0472334682860999
+"Altitude";"T4 2024";"taux_de_RNC";"M04";"orange";0,00529801324503311
+"Altitude";"T4 2024";"taux_de_RNC";"M04";"sfr";0,0294906166219839
+"Altitude";"T4 2024";"taux_de_RNC";"M04";"byt";0,0362694300518135
+"Altitude";"T4 2024";"taux_de_RNC";"M05";"free";0
+"Altitude";"T4 2024";"taux_de_RNC";"M05";"orange";0,00132450331125828
+"Altitude";"T4 2024";"taux_de_RNC";"M05";"sfr";0,00536193029490617
+"Altitude";"T4 2024";"taux_de_RNC";"M05";"byt";0
+"Altitude";"T4 2024";"taux_de_RNC";"M06";"free";0,0269905533063428
+"Altitude";"T4 2024";"taux_de_RNC";"M06";"orange";0,0397350993377483
+"Altitude";"T4 2024";"taux_de_RNC";"M06";"sfr";0,0482573726541555
+"Altitude";"T4 2024";"taux_de_RNC";"M06";"byt";0,0103626943005181
+"Altitude";"T4 2024";"taux_de_RNC";"M07";"free";0,00809716599190283
+"Altitude";"T4 2024";"taux_de_RNC";"M07";"orange";0,00927152317880795
+"Altitude";"T4 2024";"taux_de_RNC";"M07";"sfr";0,0107238605898123
+"Altitude";"T4 2024";"taux_de_RNC";"M07";"byt";0,0077720207253886
+"Altitude";"T1 2025";"taux_de_RNC";"M01";"free";0,00278940027894003
+"Altitude";"T1 2025";"taux_de_RNC";"M01";"orange";0,00533333333333333
+"Altitude";"T1 2025";"taux_de_RNC";"M01";"sfr";0,00628930817610063
+"Altitude";"T1 2025";"taux_de_RNC";"M01";"byt";0,00753768844221105
+"Altitude";"T1 2025";"taux_de_RNC";"M02";"free";0,0278940027894003
+"Altitude";"T1 2025";"taux_de_RNC";"M02";"orange";0,0213333333333333
+"Altitude";"T1 2025";"taux_de_RNC";"M02";"sfr";0,111949685534591
+"Altitude";"T1 2025";"taux_de_RNC";"M02";"byt";0,0552763819095477
+"Altitude";"T1 2025";"taux_de_RNC";"M03";"free";0,00278940027894003
+"Altitude";"T1 2025";"taux_de_RNC";"M03";"orange";0
+"Altitude";"T1 2025";"taux_de_RNC";"M03";"sfr";0
+"Altitude";"T1 2025";"taux_de_RNC";"M03";"byt";0,00753768844221105
+"Altitude";"T1 2025";"taux_de_RNC";"M04";"free";0,0278940027894003
+"Altitude";"T1 2025";"taux_de_RNC";"M04";"orange";0,00533333333333333
+"Altitude";"T1 2025";"taux_de_RNC";"M04";"sfr";0,0213836477987421
+"Altitude";"T1 2025";"taux_de_RNC";"M04";"byt";0,0351758793969849
+"Altitude";"T1 2025";"taux_de_RNC";"M05";"free";0,00139470013947001
+"Altitude";"T1 2025";"taux_de_RNC";"M05";"orange";0,008
+"Altitude";"T1 2025";"taux_de_RNC";"M05";"sfr";0,00125786163522013
+"Altitude";"T1 2025";"taux_de_RNC";"M05";"byt";0,00251256281407035
+"Altitude";"T1 2025";"taux_de_RNC";"M06";"free";0,0502092050209205
+"Altitude";"T1 2025";"taux_de_RNC";"M06";"orange";0,0453333333333333
+"Altitude";"T1 2025";"taux_de_RNC";"M06";"sfr";0,0465408805031447
+"Altitude";"T1 2025";"taux_de_RNC";"M06";"byt";0,0276381909547739
+"Altitude";"T1 2025";"taux_de_RNC";"M07";"free";0,00836820083682008
+"Altitude";"T1 2025";"taux_de_RNC";"M07";"orange";0,012
+"Altitude";"T1 2025";"taux_de_RNC";"M07";"sfr";0,0138364779874214
+"Altitude";"T1 2025";"taux_de_RNC";"M07";"byt";0,0175879396984925
+"Altitude";"T2 2025";"taux_de_RNC";"M01";"free";0,016566265060241
+"Altitude";"T2 2025";"taux_de_RNC";"M01";"orange";0,0107671601615074
+"Altitude";"T2 2025";"taux_de_RNC";"M01";"sfr";0,0110294117647059
+"Altitude";"T2 2025";"taux_de_RNC";"M01";"byt";0,00125786163522013
+"Altitude";"T2 2025";"taux_de_RNC";"M02";"free";0,036144578313253
+"Altitude";"T2 2025";"taux_de_RNC";"M02";"orange";0,0471063257065949
+"Altitude";"T2 2025";"taux_de_RNC";"M02";"sfr";0,0563725490196078
+"Altitude";"T2 2025";"taux_de_RNC";"M02";"byt";0,0792452830188679
+"Altitude";"T2 2025";"taux_de_RNC";"M03";"free";0,00753012048192771
+"Altitude";"T2 2025";"taux_de_RNC";"M03";"orange";0,00672947510094213
+"Altitude";"T2 2025";"taux_de_RNC";"M03";"sfr";0,00245098039215686
+"Altitude";"T2 2025";"taux_de_RNC";"M03";"byt";0,010062893081761
+"Altitude";"T2 2025";"taux_de_RNC";"M04";"free";0,0346385542168675
+"Altitude";"T2 2025";"taux_de_RNC";"M04";"orange";0,00942126514131898
+"Altitude";"T2 2025";"taux_de_RNC";"M04";"sfr";0,00367647058823529
+"Altitude";"T2 2025";"taux_de_RNC";"M04";"byt";0,0440251572327044
+"Altitude";"T2 2025";"taux_de_RNC";"M05";"free";0,00150602409638554
+"Altitude";"T2 2025";"taux_de_RNC";"M05";"orange";0,00403768506056528
+"Altitude";"T2 2025";"taux_de_RNC";"M05";"sfr";0,00735294117647059
+"Altitude";"T2 2025";"taux_de_RNC";"M05";"byt";0
+"Altitude";"T2 2025";"taux_de_RNC";"M06";"free";0,0331325301204819
+"Altitude";"T2 2025";"taux_de_RNC";"M06";"orange";0,00942126514131898
+"Altitude";"T2 2025";"taux_de_RNC";"M06";"sfr";0,0882352941176471
+"Altitude";"T2 2025";"taux_de_RNC";"M06";"byt";0,0264150943396226
+"Altitude";"T2 2025";"taux_de_RNC";"M07";"free";0,00903614457831325
+"Altitude";"T2 2025";"taux_de_RNC";"M07";"orange";0,00807537012113055
+"Altitude";"T2 2025";"taux_de_RNC";"M07";"sfr";0,00245098039215686
+"Altitude";"T2 2025";"taux_de_RNC";"M07";"byt";0,00880503144654088
+"Altitude";"T3 2025";"taux_de_RNC";"M01";"free";0,0142487046632124
+"Altitude";"T3 2025";"taux_de_RNC";"M01";"orange";0,00710227272727273
+"Altitude";"T3 2025";"taux_de_RNC";"M01";"sfr";0,0257104194857916
+"Altitude";"T3 2025";"taux_de_RNC";"M01";"byt";0,00392670157068063
+"Altitude";"T3 2025";"taux_de_RNC";"M02";"free";0,016839378238342
+"Altitude";"T3 2025";"taux_de_RNC";"M02";"orange";0,0525568181818182
+"Altitude";"T3 2025";"taux_de_RNC";"M02";"sfr";0,0730717185385656
+"Altitude";"T3 2025";"taux_de_RNC";"M02";"byt";0,0536649214659686
+"Altitude";"T3 2025";"taux_de_RNC";"M03";"free";0,0077720207253886
+"Altitude";"T3 2025";"taux_de_RNC";"M03";"orange";0,00426136363636364
+"Altitude";"T3 2025";"taux_de_RNC";"M03";"sfr";0,0027063599458728
+"Altitude";"T3 2025";"taux_de_RNC";"M03";"byt";0,00392670157068063
+"Altitude";"T3 2025";"taux_de_RNC";"M04";"free";0,0207253886010363
+"Altitude";"T3 2025";"taux_de_RNC";"M04";"orange";0,00710227272727273
+"Altitude";"T3 2025";"taux_de_RNC";"M04";"sfr";0,0216508795669824
+"Altitude";"T3 2025";"taux_de_RNC";"M04";"byt";0,0549738219895288
+"Altitude";"T3 2025";"taux_de_RNC";"M05";"free";0,0077720207253886
+"Altitude";"T3 2025";"taux_de_RNC";"M05";"orange";0,00426136363636364
+"Altitude";"T3 2025";"taux_de_RNC";"M05";"sfr";0,0040595399188092
+"Altitude";"T3 2025";"taux_de_RNC";"M05";"byt";0,00261780104712042
+"Altitude";"T3 2025";"taux_de_RNC";"M06";"free";0,0310880829015544
+"Altitude";"T3 2025";"taux_de_RNC";"M06";"orange";0,0198863636363636
+"Altitude";"T3 2025";"taux_de_RNC";"M06";"sfr";0,0893098782138024
+"Altitude";"T3 2025";"taux_de_RNC";"M06";"byt";0,0143979057591623
+"Altitude";"T3 2025";"taux_de_RNC";"M07";"free";0,0038860103626943
+"Altitude";"T3 2025";"taux_de_RNC";"M07";"orange";0,00284090909090909
+"Altitude";"T3 2025";"taux_de_RNC";"M07";"sfr";0,0040595399188092
+"Altitude";"T3 2025";"taux_de_RNC";"M07";"byt";0,00654450261780105
+"Altitude";"T4 2025";"taux_de_RNC";"M01";"free";0,010738255033557
+"Altitude";"T4 2025";"taux_de_RNC";"M01";"orange";0,00506970849176172
+"Altitude";"T4 2025";"taux_de_RNC";"M01";"sfr";0,00390117035110533
+"Altitude";"T4 2025";"taux_de_RNC";"M01";"byt";0,00124688279301746
+"Altitude";"T4 2025";"taux_de_RNC";"M02";"free";0,0375838926174497
+"Altitude";"T4 2025";"taux_de_RNC";"M02";"orange";0,0228136882129278
+"Altitude";"T4 2025";"taux_de_RNC";"M02";"sfr";0,0728218465539662
+"Altitude";"T4 2025";"taux_de_RNC";"M02";"byt";0,0610972568578554
+"Altitude";"T4 2025";"taux_de_RNC";"M03";"free";0,00402684563758389
+"Altitude";"T4 2025";"taux_de_RNC";"M03";"orange";0,00126742712294043
+"Altitude";"T4 2025";"taux_de_RNC";"M03";"sfr";0,00390117035110533
+"Altitude";"T4 2025";"taux_de_RNC";"M03";"byt";0,00623441396508728
+"Altitude";"T4 2025";"taux_de_RNC";"M04";"free";0,0416107382550336
+"Altitude";"T4 2025";"taux_de_RNC";"M04";"orange";0,00633713561470215
+"Altitude";"T4 2025";"taux_de_RNC";"M04";"sfr";0,00520156046814044
+"Altitude";"T4 2025";"taux_de_RNC";"M04";"byt";0,0286783042394015
+"Altitude";"T4 2025";"taux_de_RNC";"M05";"free";0,00536912751677852
+"Altitude";"T4 2025";"taux_de_RNC";"M05";"orange";0,00887198986058302
+"Altitude";"T4 2025";"taux_de_RNC";"M05";"sfr";0,00260078023407022
+"Altitude";"T4 2025";"taux_de_RNC";"M05";"byt";0,00374064837905237
+"Altitude";"T4 2025";"taux_de_RNC";"M06";"free";0,0295302013422819
+"Altitude";"T4 2025";"taux_de_RNC";"M06";"orange";0,0418250950570342
+"Altitude";"T4 2025";"taux_de_RNC";"M06";"sfr";0,0624187256176853
+"Altitude";"T4 2025";"taux_de_RNC";"M06";"byt";0,0199501246882793
+"Altitude";"T4 2025";"taux_de_RNC";"M07";"free";0,00939597315436242
+"Altitude";"T4 2025";"taux_de_RNC";"M07";"orange";0,00380228136882129
+"Altitude";"T4 2025";"taux_de_RNC";"M07";"sfr";0,0247074122236671
+"Altitude";"T4 2025";"taux_de_RNC";"M07";"byt";0,00623441396508728
+"Altitude";"T1 2026";"taux_de_RNC";"M01";"free";0,00137362637362637
+"Altitude";"T1 2026";"taux_de_RNC";"M01";"orange";0
+"Altitude";"T1 2026";"taux_de_RNC";"M01";"sfr";0,00251889168765743
+"Altitude";"T1 2026";"taux_de_RNC";"M01";"byt";0
+"Altitude";"T1 2026";"taux_de_RNC";"M02";"free";0,0398351648351648
+"Altitude";"T1 2026";"taux_de_RNC";"M02";"orange";0,0185185185185185
+"Altitude";"T1 2026";"taux_de_RNC";"M02";"sfr";0,0869017632241814
+"Altitude";"T1 2026";"taux_de_RNC";"M02";"byt";0,0883777239709443
+"Altitude";"T1 2026";"taux_de_RNC";"M03";"free";0,00412087912087912
+"Altitude";"T1 2026";"taux_de_RNC";"M03";"orange";0,0222222222222222
+"Altitude";"T1 2026";"taux_de_RNC";"M03";"sfr";0,00503778337531486
+"Altitude";"T1 2026";"taux_de_RNC";"M03";"byt";0,0121065375302663
+"Altitude";"T1 2026";"taux_de_RNC";"M04";"free";0,0233516483516484
+"Altitude";"T1 2026";"taux_de_RNC";"M04";"orange";0,00740740740740741
+"Altitude";"T1 2026";"taux_de_RNC";"M04";"sfr";0,0188916876574307
+"Altitude";"T1 2026";"taux_de_RNC";"M04";"byt";0,0351089588377724
+"Altitude";"T1 2026";"taux_de_RNC";"M05";"free";0
+"Altitude";"T1 2026";"taux_de_RNC";"M05";"orange";0
+"Altitude";"T1 2026";"taux_de_RNC";"M05";"sfr";0,00251889168765743
+"Altitude";"T1 2026";"taux_de_RNC";"M05";"byt";0,00121065375302663
+"Altitude";"T1 2026";"taux_de_RNC";"M06";"free";0,0467032967032967
+"Altitude";"T1 2026";"taux_de_RNC";"M06";"orange";0,0296296296296296
+"Altitude";"T1 2026";"taux_de_RNC";"M06";"sfr";0,0478589420654912
+"Altitude";"T1 2026";"taux_de_RNC";"M06";"byt";0,0230024213075061
+"Altitude";"T1 2026";"taux_de_RNC";"M07";"free";0,0137362637362637
+"Altitude";"T1 2026";"taux_de_RNC";"M07";"orange";0,00740740740740741
+"Altitude";"T1 2026";"taux_de_RNC";"M07";"sfr";0,0163727959697733
+"Altitude";"T1 2026";"taux_de_RNC";"M07";"byt";0,00726392251815981
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M01";"free";0,00123609394313968
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M01";"orange";0,00906002265005663
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M01";"sfr";0
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M01";"byt";0,00208986415882968
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M02";"free";0,00741656365883807
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M02";"orange";0
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M02";"sfr";0,0054421768707483
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M02";"byt";0,0208986415882968
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M03";"free";0,0469715698393078
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M03";"orange";0,00792751981879955
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M03";"sfr";0,0244897959183673
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M03";"byt";0,0365726227795193
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M04";"free";0,0210135970333745
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M04";"orange";0,00906002265005663
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M04";"sfr";0,00816326530612245
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M04";"byt";0,0146290491118077
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M05";"free";0,00494437577255871
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M05";"orange";0,00566251415628539
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M05";"sfr";0,00272108843537415
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M05";"byt";0,00417972831765935
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M06";"free";0,0407911001236094
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M06";"orange";0,0373725934314836
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M06";"sfr";0,0503401360544218
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M06";"byt";0,03239289446186
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M07";"free";0,0111248454882571
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M07";"orange";0,0124575311438279
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M07";"sfr";0,0149659863945578
+"Xp Fibre";"T4 2025";"taux_de_RNC";"M07";"byt";0,0135841170323929
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M01";"free";0
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M01";"orange";0,00456100342075257
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M01";"sfr";0,00142450142450142
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M01";"byt";0,00210304942166141
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M02";"free";0,0115740740740741
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M02";"orange";0,00342075256556442
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M02";"sfr";0,00142450142450142
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M02";"byt";0,0115667718191377
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M03";"free";0,0428240740740741
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M03";"orange";0,00912200684150513
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M03";"sfr";0,0213675213675214
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M03";"byt";0,0325972660357518
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M04";"free";0,0266203703703704
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M04";"orange";0,00456100342075257
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M04";"sfr";0,0113960113960114
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M04";"byt";0,017875920084122
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M05";"free";0,00115740740740741
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M05";"orange";0,00456100342075257
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M05";"sfr";0,00284900284900285
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M05";"byt";0,00210304942166141
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M06";"free";0,0324074074074074
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M06";"orange";0,0456100342075257
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M06";"sfr";0,0527065527065527
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M06";"byt";0,0252365930599369
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M07";"free";0,00347222222222222
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M07";"orange";0,00912200684150513
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M07";"sfr";0,00712250712250712
+"Xp Fibre";"T1 2026";"taux_de_RNC";"M07";"byt";0,00736067297581493
+"Tous réseaux";"2024-01-01";"taux_de_reprise";"M00";"free";0,433899352120625
+"Tous réseaux";"2024-01-01";"taux_de_reprise";"M00";"orange";0,953200923203118
+"Tous réseaux";"2024-01-01";"taux_de_reprise";"M00";"sfr";0,710592320942061
+"Tous réseaux";"2024-01-01";"taux_de_reprise";"M00";"byt";0,901016690602083
+"Tous réseaux";"2024-02-01";"taux_de_reprise";"M00";"free";0,583332266790068
+"Tous réseaux";"2024-02-01";"taux_de_reprise";"M00";"orange";0,888909319749808
+"Tous réseaux";"2024-02-01";"taux_de_reprise";"M00";"sfr";0,674952924823389
+"Tous réseaux";"2024-02-01";"taux_de_reprise";"M00";"byt";0,872663626916929
+"Tous réseaux";"2024-03-01";"taux_de_reprise";"M00";"free";0,649375796526577
+"Tous réseaux";"2024-03-01";"taux_de_reprise";"M00";"orange";0,95111368467984
+"Tous réseaux";"2024-03-01";"taux_de_reprise";"M00";"sfr";0,703529463400754
+"Tous réseaux";"2024-03-01";"taux_de_reprise";"M00";"byt";0,908613695203368
+"Tous réseaux";"2024-04-01";"taux_de_reprise";"M00";"free";0,537916361026681
+"Tous réseaux";"2024-04-01";"taux_de_reprise";"M00";"orange";0,922237150470682
+"Tous réseaux";"2024-04-01";"taux_de_reprise";"M00";"sfr";0,714428053640554
+"Tous réseaux";"2024-04-01";"taux_de_reprise";"M00";"byt";0,876830066723195
+"Tous réseaux";"2024-05-01";"taux_de_reprise";"M00";"free";0,56487102221917
+"Tous réseaux";"2024-05-01";"taux_de_reprise";"M00";"orange";0,941714012598872
+"Tous réseaux";"2024-05-01";"taux_de_reprise";"M00";"sfr";0,689452361955098
+"Tous réseaux";"2024-05-01";"taux_de_reprise";"M00";"byt";0,91396846035145
+"Tous réseaux";"2024-06-01";"taux_de_reprise";"M00";"free";0,473737832233528
+"Tous réseaux";"2024-06-01";"taux_de_reprise";"M00";"orange";0,920685583308096
+"Tous réseaux";"2024-06-01";"taux_de_reprise";"M00";"sfr";0,751842668752127
+"Tous réseaux";"2024-06-01";"taux_de_reprise";"M00";"byt";0,87089528862144
+"Tous réseaux";"2024-07-01";"taux_de_reprise";"M00";"free";0,458561406297654
+"Tous réseaux";"2024-07-01";"taux_de_reprise";"M00";"orange";0,913052267844192
+"Tous réseaux";"2024-07-01";"taux_de_reprise";"M00";"sfr";0,734290129162913
+"Tous réseaux";"2024-07-01";"taux_de_reprise";"M00";"byt";0,842454259235586
+"Tous réseaux";"2024-08-01";"taux_de_reprise";"M00";"free";0,48892667695419
+"Tous réseaux";"2024-08-01";"taux_de_reprise";"M00";"orange";0,879785547481656
+"Tous réseaux";"2024-08-01";"taux_de_reprise";"M00";"sfr";0,757224401066223
+"Tous réseaux";"2024-08-01";"taux_de_reprise";"M00";"byt";0,859887735687182
+"Tous réseaux";"2024-09-01";"taux_de_reprise";"M00";"free";0,493285600432776
+"Tous réseaux";"2024-09-01";"taux_de_reprise";"M00";"orange";0,927733791804997
+"Tous réseaux";"2024-09-01";"taux_de_reprise";"M00";"sfr";0,789782013782538
+"Tous réseaux";"2024-09-01";"taux_de_reprise";"M00";"byt";0,912848780334616
+"Tous réseaux";"2024-10-01";"taux_de_reprise";"M00";"free";0,546934056971226
+"Tous réseaux";"2024-10-01";"taux_de_reprise";"M00";"orange";0,924257509271265
+"Tous réseaux";"2024-10-01";"taux_de_reprise";"M00";"sfr";0,730178374594939
+"Tous réseaux";"2024-10-01";"taux_de_reprise";"M00";"byt";0,890571770221469
+"Tous réseaux";"2024-11-01";"taux_de_reprise";"M00";"free";0,629208907963744
+"Tous réseaux";"2024-11-01";"taux_de_reprise";"M00";"orange";0,858073330254746
+"Tous réseaux";"2024-11-01";"taux_de_reprise";"M00";"sfr";0,750091067142435
+"Tous réseaux";"2024-11-01";"taux_de_reprise";"M00";"byt";0,895705640839217
+"Tous réseaux";"2024-12-01";"taux_de_reprise";"M00";"free";0,491036925412176
+"Tous réseaux";"2024-12-01";"taux_de_reprise";"M00";"orange";0,909126729794372
+"Tous réseaux";"2024-12-01";"taux_de_reprise";"M00";"sfr";0,739541165278169
+"Tous réseaux";"2024-12-01";"taux_de_reprise";"M00";"byt";0,877384774824641
+"Tous réseaux";"2025-01-01";"taux_de_reprise";"M00";"free";0,53637729107146
+"Tous réseaux";"2025-01-01";"taux_de_reprise";"M00";"orange";0,908247526096555
+"Tous réseaux";"2025-01-01";"taux_de_reprise";"M00";"sfr";0,736953335174843
+"Tous réseaux";"2025-01-01";"taux_de_reprise";"M00";"byt";0,897672750273278
+"Tous réseaux";"2025-02-01";"taux_de_reprise";"M00";"free";0,534068981807243
+"Tous réseaux";"2025-02-01";"taux_de_reprise";"M00";"orange";0,915164972405781
+"Tous réseaux";"2025-02-01";"taux_de_reprise";"M00";"sfr";0,632913272357691
+"Tous réseaux";"2025-02-01";"taux_de_reprise";"M00";"byt";0,920764746506496
+"Tous réseaux";"2025-03-01";"taux_de_reprise";"M00";"free";0,526517098724593
+"Tous réseaux";"2025-03-01";"taux_de_reprise";"M00";"orange";0,939869605542444
+"Tous réseaux";"2025-03-01";"taux_de_reprise";"M00";"sfr";0,662483695959828
+"Tous réseaux";"2025-03-01";"taux_de_reprise";"M00";"byt";0,901807481812755
+"Tous réseaux";"2025-04-01";"taux_de_reprise";"M00";"free";0,552667555553032
+"Tous réseaux";"2025-04-01";"taux_de_reprise";"M00";"orange";0,932824172594916
+"Tous réseaux";"2025-04-01";"taux_de_reprise";"M00";"sfr";0,71517747379822
+"Tous réseaux";"2025-04-01";"taux_de_reprise";"M00";"byt";0,902397773128693
+"Tous réseaux";"2025-05-01";"taux_de_reprise";"M00";"free";0,580357920664289
+"Tous réseaux";"2025-05-01";"taux_de_reprise";"M00";"orange";0,965453055651721
+"Tous réseaux";"2025-05-01";"taux_de_reprise";"M00";"sfr";0,730507559715692
+"Tous réseaux";"2025-05-01";"taux_de_reprise";"M00";"byt";0,90411572694506
+"Tous réseaux";"2025-06-01";"taux_de_reprise";"M00";"free";0,640409899264121
+"Tous réseaux";"2025-06-01";"taux_de_reprise";"M00";"orange";0,947571414249108
+"Tous réseaux";"2025-06-01";"taux_de_reprise";"M00";"sfr";0,77065130047135
+"Tous réseaux";"2025-06-01";"taux_de_reprise";"M00";"byt";0,892076693670893
+"Tous réseaux";"2025-07-01";"taux_de_reprise";"M00";"free";0,689826309665068
+"Tous réseaux";"2025-07-01";"taux_de_reprise";"M00";"orange";0,961968993426357
+"Tous réseaux";"2025-07-01";"taux_de_reprise";"M00";"sfr";0,760371642689214
+"Tous réseaux";"2025-07-01";"taux_de_reprise";"M00";"byt";0,862178661247435
+"Tous réseaux";"2025-08-01";"taux_de_reprise";"M00";"free";0,685847733690941
+"Tous réseaux";"2025-08-01";"taux_de_reprise";"M00";"orange";0,968490252232044
+"Tous réseaux";"2025-08-01";"taux_de_reprise";"M00";"sfr";0,753803026518156
+"Tous réseaux";"2025-08-01";"taux_de_reprise";"M00";"byt";0,871195063726079
+"Tous réseaux";"2025-09-01";"taux_de_reprise";"M00";"free";0,585785165403496
+"Tous réseaux";"2025-09-01";"taux_de_reprise";"M00";"orange";0,937854924307097
+"Tous réseaux";"2025-09-01";"taux_de_reprise";"M00";"sfr";0,743077787936239
+"Tous réseaux";"2025-09-01";"taux_de_reprise";"M00";"byt";0,827551023397656
+"Tous réseaux";"2025-10-01";"taux_de_reprise";"M00";"free";0,703605368504246
+"Tous réseaux";"2025-10-01";"taux_de_reprise";"M00";"orange";0,931576064111675
+"Tous réseaux";"2025-10-01";"taux_de_reprise";"M00";"sfr";0,731535947491799
+"Tous réseaux";"2025-10-01";"taux_de_reprise";"M00";"byt";0,84627845939667
+"Tous réseaux";"2025-11-01";"taux_de_reprise";"M00";"free";0,761369347595936
+"Tous réseaux";"2025-11-01";"taux_de_reprise";"M00";"orange";0,935596641692171
+"Tous réseaux";"2025-11-01";"taux_de_reprise";"M00";"sfr";0,761053969095657
+"Tous réseaux";"2025-11-01";"taux_de_reprise";"M00";"byt";0,824410199131293
+"Tous réseaux";"2025-12-01";"taux_de_reprise";"M00";"free";0,775965857368442
+"Tous réseaux";"2025-12-01";"taux_de_reprise";"M00";"orange";0,931984088983634
+"Tous réseaux";"2025-12-01";"taux_de_reprise";"M00";"sfr";0,76087612443627
+"Tous réseaux";"2025-12-01";"taux_de_reprise";"M00";"byt";0,836186194795883
+"Tous réseaux";"2026-01-01";"taux_de_reprise";"M00";"free";0,856966381792597
+"Tous réseaux";"2026-01-01";"taux_de_reprise";"M00";"orange";0,926439425625447
+"Tous réseaux";"2026-01-01";"taux_de_reprise";"M00";"sfr";0,805445369425488
+"Tous réseaux";"2026-01-01";"taux_de_reprise";"M00";"byt";0,840258697875562
+"Tous réseaux";"2026-02-01";"taux_de_reprise";"M00";"free";0,871443862956598
+"Tous réseaux";"2026-02-01";"taux_de_reprise";"M00";"orange";0,940888863007118
+"Tous réseaux";"2026-02-01";"taux_de_reprise";"M00";"sfr";0,833671349493335
+"Tous réseaux";"2026-02-01";"taux_de_reprise";"M00";"byt";0,86718388051177
