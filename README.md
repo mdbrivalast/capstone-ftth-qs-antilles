@@ -33,7 +33,8 @@ En cours
 │   └── patches/                        # évolutions successives du schéma (v5.4, v5.5)
 ├── scripts/
 │   ├── generateur_faits_cap3.py    # générateur des données simulées (seed figé)
-│   └── zapm_centroides_om.py       # comptage des PM outre-mer depuis le shapefile ZAPM de l'Arcep
+│   ├── zapm_centroides_om.py       # comptage des PM outre-mer depuis le shapefile ZAPM de l'Arcep
+│   └── prototypes/moteur_pannes.py # prototype CSV du moteur de pannes (cheminement : voir git log de ce fichier)
 ├── docs/                           # note méthodologique, calibrage cyclonique, vérification sourcée des cyclones
 └── CHANGELOG.md                    # historique des versions du modèle
 ```
