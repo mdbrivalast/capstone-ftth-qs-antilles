@@ -30,14 +30,34 @@ En cours
 │   ├── DDL-capstone3-v5.5.sql          # schéma seul (modèle en étoile)
 │   ├── DDL-capstone3-v5.5-peuple.sql   # schéma + référentiels (point de départ de la reproduction)
 │   ├── peuplement_dim_cause.sql, peuplement_dim_temps.sql, ref_troncon_segment.sql
-│   └── patches/                        # évolutions successives du schéma (v5.4, v5.5)
+│   ├── patches/                        # évolutions successives du schéma
+│   │   ├── patch_v5.4_parc_annuel.sql
+│   │   └── patch_v5.5_p_malfacon.sql
+│   └── requetes/                       # les 8 indicateurs qualité (+ 7b) : requête et résultat exporté
+│       ├── req_indicateurNN_<titre>.sql    # requête SQL commentée (01 à 08, + 07b)
+│       └── res_indicateurNN_<titre>.csv    # résultat de la requête sur la base v1
 ├── scripts/
 │   ├── generateur_faits_cap3.py    # générateur des données simulées (seed figé)
 │   ├── zapm_centroides_om.py       # comptage des PM outre-mer depuis le shapefile ZAPM de l'Arcep
-│   └── prototypes/moteur_pannes.py # prototype CSV du moteur de pannes (cheminement : voir git log de ce fichier)
-├── docs/                           # note méthodologique, calibrage cyclonique, vérification sourcée des cyclones
+│   └── prototypes/moteur_pannes.py # maquette du moteur de pannes (territoire × mois, sortie CSV) qui a servi à tester les réglages
+├── docs/                           # note méthodologique, calibrage cyclonique, vérification sourcée des cyclones, schéma (.dot)
+├── images/                         # schéma du modèle en étoile (PNG, SVG)
 └── CHANGELOG.md                    # historique des versions du modèle
 ```
+
+### Les 8 indicateurs (`sql/requetes/`)
+
+| # | Indicateur | Fichiers |
+|---|---|---|
+| 1 | Issue des raccordements | `req_/res_indicateur01_raccordement_issue` |
+| 2 | Reprise des malfaçons au raccordement | `req_/res_indicateur02_raccordement_reprise` |
+| 3 | Délai de mise en service | `req_/res_indicateur03_delai_mes` |
+| 4 | Taux de pannes mensuel | `req_/res_indicateur04_taux_pannes` |
+| 5 | MTTR par segment | `req_/res_indicateur05_mttr` |
+| 6 | Réitération (abonnés à ≥ 2 pannes) | `req_/res_indicateur06_reiteration` |
+| 7 | Malfaçon par cause | `req_/res_indicateur07_malfacon-cause` |
+| 7b | Malfaçon pendant Tammy (appui du 4.3) | `req_/res_indicateur07b_malfacon_tammy` |
+| 8 | Effet cyclone par tranche d'aérien des PM | `req_/res_indicateur08_cyclone_tranche-aerienpm` |
 
 La base SQLite n'est pas versionnée : elle se régénère à l'identique (voir ci-dessous).
 
