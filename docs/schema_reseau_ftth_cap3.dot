@@ -1,0 +1,31 @@
+// Source du schéma réseau FttH (cas #3). Rendu : dot -Tpng -Gdpi=200 ; la note explicative (note.dot) est accolée sous l'image.
+// Schéma d'un réseau FttH standard et de ses segments D0 à D3 (cas #3)
+// Équipements mesurés dans l'analyse : trait plein ; non mesurés : pointillés gris
+digraph reseau {
+  graph [rankdir=LR, bgcolor="white", pad=0.4, nodesep=0.3, ranksep=0.45, fontname="Inter", fontsize=20, newrank=true,
+         label=<<TABLE BORDER="0" CELLSPACING="2"><TR><TD><FONT POINT-SIZE="20"><B>Réseau FttH standard et segments du cas #3</B></FONT></TD></TR><TR><TD><FONT POINT-SIZE="13" COLOR="#555555">du cœur de réseau jusqu'à la prise de l'abonné · en pointillés gris : équipements non mesurés dans l'analyse</FONT></TD></TR></TABLE>>, labelloc=t];
+  node  [shape=box, style="rounded,filled", fontname="Inter", fontsize=13, penwidth=1.5, margin="0.18,0.10"];
+  edge  [color="#5B6270", penwidth=1.6, arrowsize=0.7];
+
+  subgraph cluster_d0 { label=<<B>D0 · Collecte</B>>; fontsize=14; fontcolor="#5E5E5E"; style="rounded,filled"; fillcolor="#F2F2F2"; color="#BBBBBB";
+    back [label=<<B>BACKBONE</B><BR/><FONT POINT-SIZE="10">cœur de réseau</FONT>>, fillcolor="white", color="#5E5E5E"]; }
+  subgraph cluster_d1 { label=<<B>D1 · Transport</B>>; fontsize=14; fontcolor="#2F6F8F"; style="rounded,filled"; fillcolor="#E7F0F5"; color="#9DBFD1";
+    nro [label=<<B>NRO</B><BR/><FONT POINT-SIZE="10">nœud de raccordement</FONT>>, fillcolor="white", color="#2F6F8F"];
+    pep [label=<PEP · PR<BR/><FONT POINT-SIZE="10">non mesurés</FONT>>, fillcolor="#FAFAFA", color="#A0A0A0", fontcolor="#8A8A8A", style="rounded,filled,dashed"]; }
+  subgraph cluster_d2 { label=<<B>D2 · Distribution</B>>; fontsize=14; fontcolor="#5E7A3A"; style="rounded,filled"; fillcolor="#EEF3E6"; color="#B5C79A";
+    pm  [label=<<B>PM</B><BR/><FONT POINT-SIZE="10">point de mutualisation</FONT>>, fillcolor="white", color="#5E7A3A"];
+    pa  [label=<PA · PR · BE<BR/><FONT POINT-SIZE="10">non mesurés</FONT>>, fillcolor="#FAFAFA", color="#A0A0A0", fontcolor="#8A8A8A", style="rounded,filled,dashed"]; }
+  subgraph cluster_d3 { label=<<B>D3 · Branchement</B>>; fontsize=14; fontcolor="#B4532A"; style="rounded,filled"; fillcolor="#FBEDE6"; color="#E3B49E";
+    pbo [label=<<B>PBO / PBI</B><BR/><FONT POINT-SIZE="10">point de branchement</FONT>>, fillcolor="white", color="#B4532A"];
+    pto [label=<<B>PTO / DTIO</B><BR/><FONT POINT-SIZE="10">prise chez l'abonné</FONT>>, fillcolor="white", color="#B4532A"]; }
+
+  back -> nro -> pep -> pm -> pa -> pbo -> pto;
+
+  
+}
+
+/* note.dot :
+digraph n { bgcolor="white"; pad=0.2; node [shape=plain, fontname="Inter"]; n [label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="2">
+    <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="11" COLOR="#444444">Dans la base (ref_troncon_segment) : BACK → D0 · NRO → D1 · PM → D2 · PBO → D3 · PTO → D3 ;</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="11" COLOR="#444444">les boîtiers intermédiaires (PEP, PA, PR, BE…) sont regroupés sous le tronçon générique BPE, rattaché à D2 ; MULTI = transverse (NA).</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="11" COLOR="#444444">PEP, PA, PR, BE, PBO/PBI et PTO/DTIO sont tous des BPE (boîtiers de protection d'épissures) : leur nom dépend de leur place dans le réseau.</FONT></TD></TR></TABLE>>]; }*/
