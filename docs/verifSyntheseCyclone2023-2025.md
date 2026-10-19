@@ -13,41 +13,41 @@
 
 ---
 Sources :
-Météo-France (bilans vigilance 2023–2025, bulletins cyclones)
-Rapports détaillés de l’Amicale des Ouragans (Philippe 2023, Jerry 2025)
-Articles de presse (France Info, RCI, France Antilles, TF1, Le Figaro)
-Communiqués préfecture / EDF / Orange
----------
-https://actualite.lachainemeteo.com/actualite-meteo/2025-10-08/tempete-tropicale-jerry-alerte-rouge-en-guadeloupe-avant-une-lente-amelioration-ce-week-end-81991
-https://atlas.amicale-des-ouragans.org/dossiers/bret2023/bret2023_cr_ado.pdf
-https://atlas.amicale-des-ouragans.org/dossiers/jerry2025/jerry2025_cr_ado.pdf
-https://en.wikipedia.org/wiki/Tropical_Storm_Philippe_(2023)
-https://fr.wikipedia.org/wiki/Ouragan_Ernesto_(2024)
-https://fr.wikipedia.org/wiki/Ouragan_Tammy_(2023)
-https://ici.radio-canada.ca/nouvelle/2085099/ouragan-beryl-caraibes-morts-degats
-https://infoterre.brgm.fr/rapports/RP-73793-FR.pdf
-https://la1ere.franceinfo.fr/environnement/catastrophes-naturelles/inondations
-https://la1ere.franceinfo.fr/guadeloupe/basse-terre/basse-terre/inondations-voitures-emportees-bateau-echoue-les-premiers-effets-de-la-tempete-jerry-se-sont-ressentir-1631540.html
-https://la1ere.franceinfo.fr/meteo/cyclones/saison-cyclonique
-https://meteofrance.fr/sites/default/files/files/editorial/bilan-vigilance-2024.pdf
-https://meteofrance.fr/sites/default/files/files/editorial/bilan-vigilance-2025-meteo-france.pdf
-https://meteofrance.gp/fr/actualites
-https://meteofrance.gp/fr/actualites/bilan-de-la-saison-cyclonique-2023
-https://meteofrance.gp/fr/actualites/les-effets-de-la-tempete-tropicale-philippe-en-guadeloupe-et-aux-iles-du-nord
-https://meteofrance.mq/fr/actualites/bilan-de-la-saison-cyclonique-2023
-https://meteofrance.mq/fr/climat/bulletin-climatique-annuel-2023
-https://rci.fm/guadeloupe/infos/Risques-naturels/DIRECT-Suivez-toute-levolution-de-la-tempete-tropicale-Tammy-enGuadeloupe
-https://rci.fm/guadeloupe/infos/Risques-naturels/EN-IMAGES-la-Desirade-balayee-par-louragan-Tammy-les-habitantsdecouvrent
-https://rci.fm/martinique/infos/Informations-pratiques/Ouragan-Beryl-10-000-clients-EDF-prives-delectricite-en-Martinique
-https://rci.fm/martinique/infos/Risques-naturels/Beryl-le-Fonds-de-Secours-pour-lOutre-mer-mobilise-pour-soutenir-les
-https://rci.fm/martinique/infos/Risques-naturels/Direct-Suivez-le-passage-de-la-tempete-Bret-sur-la-Martinique
-https://rci.fm/martinique/infos/Risques-naturels/Retrograde-en-categorie-3-louragan-Beryl-cree-des-conditions-degradees-en
-https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10889.pdf
-https://www.faxinfo.fr/en/guadeloupe-tempete-philippe-reaction-du-ministre-en-charge-des-outre-mer/
-https://www.la-croix.com/planete/tempete-jerry-le-guadeloupe-et-la-martinique-en-vigilance-orange-20251010
-https://www.lapresse.ca/international/caraibes/2024-07-01/l-ouragan-beryl-passe-en-categorie-5-et-fait-au-moins-unmort.php
-https://www.lemonde.fr/planete/article/2024/07/03/l-ouragan-beryl-un-phenomene-hors-normes-qui-seme-la-desolation-dans-les-caraibes_6246273_3244.html
-https://www.leparisien.fr/guadeloupe-971/tempete-jerry-en-guadeloupe-lile-placee-en-vigilance-orange-10-10-2025-XO2YE67KTRC7VB4T442MX4YBDI.php
-https://www.liberation.fr/societe/louragan-beryl-menace-les-caraibes-avec-des-vents-extremement-dangereux-depassant-200-kmh-20240701_PKOFVICJOJCYNCL2D3RKYU3OAA/
-https://www.sciencesetavenir.fr/nature-environnement/meteo/tempete-ernesto-la-guadeloupe-s-en-sort-sans-degatmajeur_180067
-https://yaleclimateconnections.org/2023/10/tropical-storm-philippe-drenches-the-leeward-islands/
+- [ ] Météo-France (bilans vigilance 2023–2025, bulletins cyclones)  
+- [ ] Rapports détaillés de l’Amicale des Ouragans (Philippe 2023, Jerry 2025\)&nbsp;  
+- [ ] Articles de presse (France Info, RCI, France Antilles, TF1, Le Figaro)  
+- [ ] Communiqués préfecture / EDF / Orange
+
+&nbsp;
+
+* [https\://actualite.lachainemeteo.com/actualite-meteo/2025-10-08/tempete-tropicale-jerry-alerte-rouge-en-guadeloupe-avant-une-lente-amelioration-ce-week-end-81991](https://actualite.lachainemeteo.com/actualite-meteo/2025-10-08/tempete-tropicale-jerry-alerte-rouge-en-guadeloupe-avant-une-lente-amelioration-ce-week-end-81991)  
+* [https\://atlas.amicale-des-ouragans.org/dossiers/bret2023/bret2023\_cr\_ado.pdf](https://atlas.amicale-des-ouragans.org/dossiers/bret2023/bret2023_cr_ado.pdf)  
+* [https\://atlas.amicale-des-ouragans.org/dossiers/jerry2025/jerry2025\_cr\_ado.pdf](https://atlas.amicale-des-ouragans.org/dossiers/jerry2025/jerry2025_cr_ado.pdf)  
+* [https\://en.wikipedia.org/wiki/Tropical\_Storm\_Philippe\_(2023)](https://en.wikipedia.org/wiki/Tropical_Storm_Philippe_\(2023\))&nbsp;  
+* [https\://fr.wikipedia.org/wiki/Ouragan\_Ernesto\_(2024)](https://fr.wikipedia.org/wiki/Ouragan_Ernesto_\(2024\))  
+* [https\://fr.wikipedia.org/wiki/Ouragan\_Tammy\_(2023)](https://fr.wikipedia.org/wiki/Ouragan_Tammy_\(2023\))  
+* [https\://ici.radio-canada.ca/nouvelle/2085099/ouragan-beryl-caraibes-morts-degats](https://ici.radio-canada.ca/nouvelle/2085099/ouragan-beryl-caraibes-morts-degats)  
+* [https\://infoterre.brgm.fr/rapports/RP-73793-FR.pdf](https://infoterre.brgm.fr/rapports/RP-73793-FR.pdf)&nbsp;  
+* [https\://la1ere.franceinfo.fr/environnement/catastrophes-naturelles/inondations](https://la1ere.franceinfo.fr/environnement/catastrophes-naturelles/inondations)  
+* [https\://la1ere.franceinfo.fr/guadeloupe/basse-terre/basse-terre/inondations-voitures-emportees-bateau-echoue-les-premiers-effets-de-la-tempete-jerry-se-sont-ressentir-1631540.html](https://la1ere.franceinfo.fr/guadeloupe/basse-terre/basse-terre/inondations-voitures-emportees-bateau-echoue-les-premiers-effets-de-la-tempete-jerry-se-sont-ressentir-1631540.html)  
+* [https\://la1ere.franceinfo.fr/meteo/cyclones/saison-cyclonique](https://la1ere.franceinfo.fr/meteo/cyclones/saison-cyclonique)&nbsp;  
+* [https\://meteofrance.fr/sites/default/files/files/editorial/bilan-vigilance-2024.pdf](https://meteofrance.fr/sites/default/files/files/editorial/bilan-vigilance-2024.pdf)  
+* [https\://meteofrance.fr/sites/default/files/files/editorial/bilan-vigilance-2025-meteo-france.pdf](https://meteofrance.fr/sites/default/files/files/editorial/bilan-vigilance-2025-meteo-france.pdf) [https\://meteofrance.gp/fr/actualites](https://meteofrance.gp/fr/actualites)&nbsp;  
+* [https\://meteofrance.gp/fr/actualites/bilan-de-la-saison-cyclonique-2023](https://meteofrance.gp/fr/actualites/bilan-de-la-saison-cyclonique-2023)  
+* [https\://meteofrance.gp/fr/actualites/les-effets-de-la-tempete-tropicale-philippe-en-guadeloupe-et-aux-iles-du-nord](https://meteofrance.gp/fr/actualites/les-effets-de-la-tempete-tropicale-philippe-en-guadeloupe-et-aux-iles-du-nord) [https\://meteofrance.mq/fr/actualites/bilan-de-la-saison-cyclonique-2023](https://meteofrance.mq/fr/actualites/bilan-de-la-saison-cyclonique-2023)  
+* [https\://meteofrance.mq/fr/climat/bulletin-climatique-annuel-2023](https://meteofrance.mq/fr/climat/bulletin-climatique-annuel-2023)&nbsp;  
+* [https\://rci.fm/guadeloupe/infos/Risques-naturels/DIRECT-Suivez-toute-levolution-de-la-tempete-tropicale-Tammy-enGuadeloupe](https://rci.fm/guadeloupe/infos/Risques-naturels/DIRECT-Suivez-toute-levolution-de-la-tempete-tropicale-Tammy-enGuadeloupe)&nbsp;  
+* [https\://rci.fm/guadeloupe/infos/Risques-naturels/EN-IMAGES-la-Desirade-balayee-par-louragan-Tammy-les-habitantsdecouvrent](https://rci.fm/guadeloupe/infos/Risques-naturels/EN-IMAGES-la-Desirade-balayee-par-louragan-Tammy-les-habitantsdecouvrent)&nbsp;  
+* [https\://rci.fm/martinique/infos/Informations-pratiques/Ouragan-Beryl-10-000-clients-EDF-prives-delectricite-en-Martinique](https://rci.fm/martinique/infos/Informations-pratiques/Ouragan-Beryl-10-000-clients-EDF-prives-delectricite-en-Martinique)&nbsp;  
+* [https\://rci.fm/martinique/infos/Risques-naturels/Beryl-le-Fonds-de-Secours-pour-lOutre-mer-mobilise-pour-soutenir-les](https://rci.fm/martinique/infos/Risques-naturels/Beryl-le-Fonds-de-Secours-pour-lOutre-mer-mobilise-pour-soutenir-les)  
+* [https\://rci.fm/martinique/infos/Risques-naturels/Direct-Suivez-le-passage-de-la-tempete-Bret-sur-la-Martinique](https://rci.fm/martinique/infos/Risques-naturels/Direct-Suivez-le-passage-de-la-tempete-Bret-sur-la-Martinique)&nbsp;  
+* [https\://rci.fm/martinique/infos/Risques-naturels/Retrograde-en-categorie-3-louragan-Beryl-cree-des-conditions-degradees-en](https://rci.fm/martinique/infos/Risques-naturels/Retrograde-en-categorie-3-louragan-Beryl-cree-des-conditions-degradees-en)&nbsp;  
+* [https\://www\.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10889.pdf](https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10889.pdf)&nbsp;  
+* [https\://www\.faxinfo.fr/en/guadeloupe-tempete-philippe-reaction-du-ministre-en-charge-des-outre-mer/](https://www.faxinfo.fr/en/guadeloupe-tempete-philippe-reaction-du-ministre-en-charge-des-outre-mer/)&nbsp;  
+* [https\://www\.la-croix.com/planete/tempete-jerry-le-guadeloupe-et-la-martinique-en-vigilance-orange-20251010](https://www.la-croix.com/planete/tempete-jerry-le-guadeloupe-et-la-martinique-en-vigilance-orange-20251010)&nbsp;  
+* [https\://www\.lapresse.ca/international/caraibes/2024-07-01/l-ouragan-beryl-passe-en-categorie-5-et-fait-au-moins-unmort.php](https://www.lapresse.ca/international/caraibes/2024-07-01/l-ouragan-beryl-passe-en-categorie-5-et-fait-au-moins-unmort.php)  
+* [https\://www\.lemonde.fr/planete/article/2024/07/03/l-ouragan-beryl-un-phenomene-hors-normes-qui-seme-la-desolation-dans-les-caraibes\_6246273\_3244.html](https://www.lemonde.fr/planete/article/2024/07/03/l-ouragan-beryl-un-phenomene-hors-normes-qui-seme-la-desolation-dans-les-caraibes_6246273_3244.html)  
+* [https\://www\.leparisien.fr/guadeloupe-971/tempete-jerry-en-guadeloupe-lile-placee-en-vigilance-orange-10-10-2025-XO2YE67KTRC7VB4T442MX4YBDI.php](https://www.leparisien.fr/guadeloupe-971/tempete-jerry-en-guadeloupe-lile-placee-en-vigilance-orange-10-10-2025-XO2YE67KTRC7VB4T442MX4YBDI.php)  
+* [https\://www\.liberation.fr/societe/louragan-beryl-menace-les-caraibes-avec-des-vents-extremement-dangereux-depassant-200-kmh-20240701\_PKOFVICJOJCYNCL2D3RKYU3OAA/](https://www.liberation.fr/societe/louragan-beryl-menace-les-caraibes-avec-des-vents-extremement-dangereux-depassant-200-kmh-20240701_PKOFVICJOJCYNCL2D3RKYU3OAA/)  
+* [https\://www\.sciencesetavenir.fr/nature-environnement/meteo/tempete-ernesto-la-guadeloupe-s-en-sort-sans-degatmajeur\_180067](https://www.sciencesetavenir.fr/nature-environnement/meteo/tempete-ernesto-la-guadeloupe-s-en-sort-sans-degatmajeur_180067)&nbsp;  
+* [https\://yaleclimateconnections.org/2023/10/tropical-storm-philippe-drenches-the-leeward-islands/](https://yaleclimateconnections.org/2023/10/tropical-storm-philippe-drenches-the-leeward-islands/)
