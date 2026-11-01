@@ -1,4 +1,6 @@
-periode;n_pannes;n_malfacons_attendues;pct_malfacon
-1. Tammy (oct. 2023);3320;588;17.7
-2. Autres mois saison cyclonique;46780;13639;29.2
-3. Hors saison cyclonique;42900;12819;29.9
+periode;n_pannes;n_malfacons;pct_malfacon
+2023-08;1816;552;30.4
+2023-09;1884;611;32.4
+2023-10;3320;605;18.2
+2023-11;2022;580;28.7
+2023-12;2091;601;28.7

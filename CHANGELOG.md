@@ -1,5 +1,13 @@
 # Changelog — Capstone #3 (observatoire qualité FTTH Outre-mer)
+## [2026-10-19]
+- Mise à jour base de donnée v5.6 : fichier DDL-capstone3-v5.6.sql avce l'ajout de la colonne malfacon dans la table fait_signalement. 
+- Ajout du fichier de peuplement DDL-capstone3-v5.6.sql-peuple.sql. 
 
+### Contrôlé
+- Reproductibilité : base régénérée depuis `DDL-capstone3-v5.6-peuple.sql` + générateur, contenu identique table par table à la base de l'analyse.
+
+- Ajout de l'image du réseau FTTH 
+ 
 ## [2026-10-18]
 ### Ajouté
 - `sql/requetes/res_indicateurNN_<titre>.csv` : résultats exportés des 8 indicateurs (+ 7b) sur la base v1.
