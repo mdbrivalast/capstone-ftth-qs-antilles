@@ -1,6 +1,6 @@
 -- Indicateur 4 : TAUX DE PANNE mensuel = pannes / parc actif (parc reconstruit par le flux)
 -- Résultat attendu (base v1) : 72 lignes (2 territoires × 36 mois)
---   taux de base ≈ 2,56 %/mois (médiane GLP 2,57 %, MTQ 2,56 %)
+--   taux de base ≈ 2,56 %/mois (médiane GLP et MTQ 2,56 %)
 --   pic GLP 2023-10 (Tammy) = 4,38 % ; maximum MTQ 2024-07 = 3,19 %
 WITH activation AS (
   SELECT a.id_abonne, p.fk_territoire_pm AS territoire,

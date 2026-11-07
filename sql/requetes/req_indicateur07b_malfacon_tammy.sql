@@ -1,12 +1,7 @@
--- Indicateur 7b : part attendue de MALFAÇON en GLP, pendant Tammy et en dehors (appui du 4.3)
--- Part attendue = somme des probabilités p_malfacon des pannes / nombre de pannes
--- req_indicateur07b_malfacon_tammy.sql
--- But : vérifier la « pépite » du 4.3 (malfaçon 32 % → 18 % pendant Tammy)
+-- Indicateur 7b : part de MALFAÇON (drapeau malfacon) mois par mois en GLP, août → déc. 2023, autour de Tammy (appui du 4.3)
 -- Base SQLite, modèle DDL v5.6
--- Résultat attendu (base v1) : Tammy (oct. 2023) 3 320 pannes → 18,2 %
--- autres mois saison cyclonique 46 780 pannes → 28,7 %
-
-SELECT s.fk_mois_sign AS periode,
+-- Résultat attendu (base v1) : Tammy (oct. 2023) 3 320 pannes → 18,2 %, autres mois : aout 30,4 %; sept. 32,4%; nov. 28,7 %; dec. 28,7 %) 
+SELECT s.fk_mois_sign AS mois,
        COUNT( * ) AS n_pannes,
        SUM(s.malfacon) AS n_malfacons,
        ROUND(100.0 * SUM(s.malfacon) / COUNT( * ), 1) AS pct_malfacon
