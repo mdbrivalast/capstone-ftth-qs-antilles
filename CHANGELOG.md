@@ -1,4 +1,15 @@
-# Changelog — Capstone #3 (observatoire qualité FTTH Outre-mer)
+# Changelog — Observatoire qualité FttH outre-mer
+## [2026-11-07] — version 1 finalisée (baseline `observatoire-ftth-qs-antilles_v1`)
+### Ajouté
+- `scripts/visuels/` : les 7 visuels du Share, la tuile KPI et la planche (Matplotlib). Copies des versions de travail ; seuls les chemins (racine du dépôt, `sql/requetes/`, `images/`) et trois noms d'image changent.
+- `images/` : visuels en SVG (`v0` à `v7`, `planche_share.svg`), régénérés depuis le dépôt.
+- `data/ref_evenements_cycloniques.csv` : tempêtes et cyclones 2023-2025, source des étiquettes des pics (visuel 2+3).
+
+### Modifié
+- Indicateur 7b : calculé désormais avec le drapeau `malfacon`, mois par mois (GLP, août → déc. 2023 : 18,2 % en octobre). Les chiffres du 18/10 (17,7 / 29,2 / 29,9 %) venaient de la part **attendue** (somme des `p_malfacon`) et ne sont plus utilisés.
+- Indicateur 8 : libellés de tranche accentués (`enterré`, `aérien`).
+- En-têtes des requêtes 04 (médiane 2,56 %) et 07b (définition) corrigés.
+- `README.md` : version finale (résumé, démarche, visuels, reproduction en DDL v5.6, sources).
 ## [2026-10-19]
 - Mise à jour base de donnée v5.6 : fichier DDL-capstone3-v5.6.sql avce l'ajout de la colonne malfacon dans la table fait_signalement. 
 - Ajout du fichier de peuplement DDL-capstone3-v5.6.sql-peuple.sql. 
