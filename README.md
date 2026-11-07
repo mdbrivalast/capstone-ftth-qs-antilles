@@ -14,6 +14,8 @@ Mon premier cas d'étude, [« Déployer ou faire adopter ? »](https://github.co
 
 **Rapport complet** (démarche Ask → Act, contrôles, limites, annexes) : [`docs/FTTH-Antilles-qualite-de-service.pdf`](docs/FTTH-Antilles-qualite-de-service.pdf)
 
+**Notebook Kaggle** (régénère la base, recalcule les 9 requêtes, vérifie qu'elles sont identiques aux résultats publiés, redessine les visuels) : [FttH Antilles · observatoire qualité de service](https://www.kaggle.com/code/maritzabrival/ftth-antilles-observatoire-qualit-de-service)
+
 ## La question
 
 > Quels leviers peuvent être utilisés par la Région Guadeloupe et la CTM, sans attendre les données de l'Arcep et révélés par le modèle d'observatoire que je propose avec huit indicateurs, pour que les opérateurs concentrent leurs efforts sur la qualité de service ?
@@ -77,6 +79,8 @@ Périmètre : Martinique (972) et Guadeloupe, Saint-Barthélemy et Saint-Martin 
 │   ├── zapm_centroides_om.py       # comptage des PM outre-mer depuis le shapefile ZAPM de l'Arcep
 │   ├── prototypes/moteur_pannes.py # maquette du moteur de pannes qui a servi à tester les réglages
 │   └── visuels/                    # les 7 visuels, la tuile KPI et la planche (Matplotlib)
+├── notebooks/
+│   └── observatoire_qs_kaggle.ipynb  # notebook publié sur Kaggle : reproduction complète depuis le tag v1
 ├── docs/                           # rapport complet (PDF), note méthodologique, calibrage cyclonique, vérification sourcée des cyclones, schémas (.dot)
 ├── images/                         # visuels du Share (SVG), schéma du modèle en étoile, schéma du réseau FttH
 └── CHANGELOG.md                    # historique des versions du modèle

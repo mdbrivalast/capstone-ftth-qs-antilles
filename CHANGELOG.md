@@ -10,6 +10,8 @@
 - Indicateur 8 : libellés de tranche accentués (`enterré`, `aérien`).
 - En-têtes des requêtes 04 (médiane 2,56 %) et 07b (définition) corrigés.
 - `README.md` : version finale (résumé, démarche, visuels, reproduction en DDL v5.6, sources).
+- `notebooks/observatoire_qs_kaggle.ipynb` : notebook Kaggle qui clone le tag v1, régénère la base, rejoue les 9 requêtes (toutes identiques aux résultats publiés) et redessine les visuels.
+- `docs/FTTH-Antilles-qualite-de-service.pdf` : rapport complet.
 ## [2026-10-19]
 - Mise à jour base de donnée v5.6 : fichier DDL-capstone3-v5.6.sql avce l'ajout de la colonne malfacon dans la table fait_signalement. 
 - Ajout du fichier de peuplement DDL-capstone3-v5.6.sql-peuple.sql. 
